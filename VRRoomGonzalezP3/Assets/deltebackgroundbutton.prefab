@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 514135760337692305}
   - component: {fileID: 514135760337692310}
   m_Layer: 0
-  m_Name: Button
+  m_Name: deltebackgroundbutton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
